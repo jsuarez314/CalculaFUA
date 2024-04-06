@@ -3,4 +3,4 @@ def suma(a,b):
 def duplica(num):
     x = num * 2
     return x
-duplica()
+  duplica()
