@@ -1,6 +1,7 @@
 def suma(a,b):
   return a+b
 
+
 def multiplicacion(a,b):
   return a*b
   
@@ -14,3 +15,9 @@ def duplica(num):
 
 def raiz(m,n):
   return m**(1/n)
+
+def abs(a):
+  if a < 0:
+    return a*-1
+  else:
+    return a
