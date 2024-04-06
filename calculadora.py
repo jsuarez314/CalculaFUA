@@ -1,8 +1,8 @@
 def suma(a,b):
   return a+b
-import math
-def raiz(a) :
-   return math.sqrt(a)
-a = 4 
-x = raiz(a)
-print(x)
+
+def multiplicacion(x,y):
+  return x*y
+
+def raiz(m,n):
+  return m**(1/n)
