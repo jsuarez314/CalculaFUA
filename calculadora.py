@@ -13,4 +13,4 @@ def duplica(num):
     return x
 
 def raiz(m,n):
-  return m*(1/n)
+  return m**(1/n)
