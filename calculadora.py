@@ -21,3 +21,6 @@ def abs(a):
     return a*-1
   else:
     return a
+
+def division(a,b):
+  return a/b
